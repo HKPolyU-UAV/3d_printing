@@ -5,21 +5,46 @@
 
 ## Check parameter settings on KISSlicer
 1. Set `Settings Level` to `expert`.
+
+<p align='center'>
+      <img src="../images/setting_expert.png" width=600>
+</p>
+   
 2. Set parameters in `Style`:
    - Choose `Style Name`: `0.3`/`0.2`/`0.1` (Higher number: higher layer thickness and coarse but less printing time). Recommend `0.3` for prototype.
    - Set `Infill`. Recommend `20%` for prototype.
    - Set `Infill Style`. Recommend `Rounded` for prototype.
      
    <p align='center'>
-      <img src="../images/style_setting.png" width=500>
+      <img src="../images/style_setting.png" width=600>
    </p>
    
- 3. Set parameters in `Support`
+ 3. Set parameters in `Support`:
     - Always set `Support Name` to `sample support` if you want to get the auto support generation.
-    - Choose `Support: Coarse`.\
-    - Set `Raft Type` to `Off`. Recommend using `brim` instead of `raft` for easier removal.\
+    - Choose `Support: Coarse`.
+    - Set `Raft Type` to `Off`. Recommend using `brim` instead of `raft` for easier removal.
     - Set `Support Z-Roof [mm]` to 400. If your model height is less than the `Support Z-Roof [mm]`, KISSlicer will only generate support up to the value of `Support Z-Roof [mm]` in the z-axis.
     
    <p align='center'>
-      <img src="../images/support_setting.png" width=500>
+      <img src="../images/support_setting.png" width=600>
+   </p>
+
+   <p align='center'>
+      <img src="../images/ext_map_setting.png" width=600>
+   </p>
+
+   <p align='center'>
+      <img src="../images/printer_setting.png" width=600>
+   </p>
+
+   <p align='center'>
+      <img src="../images/model_paths.png" width=600>
+   </p>
+
+   <p align='center'>
+      <img src="../images/rotation.png" width=600> <img src="../images/rotation_choices.png" width=600>
+   </p>
+
+   <p align='center'>
+      <img src="../images/printing_time_location.png" width=600>
    </p>
