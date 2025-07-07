@@ -7,8 +7,11 @@
    |---|---|
    |PLA|210 °C|
    |TPU|230 °C|
-   
-| Filament | Temperature |
-| -------- | ----------- |
-| PLA      | 210 °C      |
-| TPU      | 210–230 °C  |
+5. Wait for the desired temperature.
+
+<p align='center'>
+   <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation.gif" /> <br/>
+   <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation_resize.mp4">Video</a>a>
+</p>
+
+## Unload "old" filament and load "new" filament
