@@ -31,7 +31,7 @@
 </p>
 
 9. Ensure that the tip of the filament is inserted properly into the extruder.
-10. Go to `Menu` > `Extruder` > `Change Filament` > `Load`. It is recommended to press `Load` twice to ensure that all of the old filament is fully purged.
+10. Go to `Menu` > `Extruder` > `Change Filament` > `Load`. It's recommended to press `Load` **twice** to ensure that all of the old filament is fully purged.
 
 <p align='center'>
    <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_final_check.gif"/> <br/>
