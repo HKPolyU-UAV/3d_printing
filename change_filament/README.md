@@ -15,14 +15,14 @@
 </p>
 
 ## Unload "old" filament and load "new" filament
-6. Remove filament
-   6a. Pull out the plastic tube on top of the extruder until the filament is visiable.
-   6b. Press the hinge while pulling out the filament. Stop when you can see the tip of the filament.
-   6c. Pull out the rest of the filament from the side of the 3D printer.
-7. Insert new filament
-   7a. Cut the tip of the new filament at a sharp angle before inserting it into the plastic tube.
-   7b. Press the hinge again to feed the new filament into the extruder. DON'T let its tip touch the white tube inside the extruder.
-   7c. Reinstall the plastic tube back into the extruder.
+6. Remove filament\
+   6a. Pull out the plastic tube on top of the extruder until the filament is visiable.\
+   6b. Press the hinge while pulling out the filament. Stop when you can see the tip of the filament.\
+   6c. Pull out the rest of the filament from the side of the 3D printer.\
+7. Insert new filament\
+   7a. Cut the tip of the new filament at a sharp angle before inserting it into the plastic tube.\
+   7b. Press the hinge again to feed the new filament into the extruder. DON'T let its tip touch the white tube inside the extruder.\
+   7c. Reinstall the plastic tube back into the extruder.\
 8. Adjust the extruder temperature according to the new filament type.
    
 <p align='center'>
