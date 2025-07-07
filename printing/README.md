@@ -8,11 +8,7 @@
 7. Clean the nozzle gently with a plier or forcep.
 8. Wait for auto bed leveling calibration.
 
-
 <p align="center">
-  <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing.gif" alt="Demo" />
-  
-  [Video](https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing_resize.mp4)
+  <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing.gif" alt="Demo" /><br/>
+  <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing_resize.mp4">Video</a>
 </p>
-
-
