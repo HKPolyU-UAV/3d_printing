@@ -11,7 +11,7 @@
 </p>
    
 2. Set parameters in `Style`:
-   - Choose `Style Name`: `0.3`/`0.2`/`0.1` (Higher number: higher layer thickness and coarse but less printing time). Recommend `0.3` for prototype.
+   - Choose `Style Name`: `0.3`/`0.2`/`0.1` (Higher number: higher layer thickness and coarse but less printing time). It's recommended `0.3` for prototype.
    - Set `Infill`. It's recommended to set `20%` for prototype.
    - Set `Infill Style`. It's recommended to set `Rounded` for prototype.
      
