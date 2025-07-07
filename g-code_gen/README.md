@@ -28,23 +28,30 @@
    <p align='center'>
       <img src="../images/support_setting.png" width=600>
    </p>
+   
+4. Set parameters in `Ext Map`:
 
    <p align='center'>
       <img src="../images/ext_map_setting.png" width=600>
    </p>
-
+   
+5. Set parameters in `Printer`:
+   
    <p align='center'>
       <img src="../images/printer_setting.png" width=600>
    </p>
 
+6. Load STL file(s) into KISSlicer and do slicing
    <p align='center'>
       <img src="../images/model_paths.png" width=600>
    </p>
 
+7. Model rotation
    <p align='center'>
-      <img src="../images/rotation.png" width=600> <img src="../images/rotation_choices.png" width=600>
+      <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
+8. Check printing time and adjust location of model
    <p align='center'>
       <img src="../images/printing_time_location.png" width=600>
    </p>
