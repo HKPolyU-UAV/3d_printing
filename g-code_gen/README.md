@@ -7,6 +7,7 @@
    2b. In `Style`, choose `Style Name`: `0.3`/`0.2`/`0.1` (Higher number: higher layer thickness and coarse but less printing time). Recommend `0.3` for prototype.\
    2c. In `Style`, set `Infill`. Recommend `20%` for prototype.\
    2d. In `Style`, set `Infill Style`. Recommend `Rounded` for prototype.\
+   <img src="images/style_setting.png">
    2e. In `Support`, always set `Support Name` to `sample support` if you want to get the auto support generation.\
    2f. In `Support`, choose `Support: Coarse`.\
    2g. In `Support`, set `Raft Type` to `Off`. Recommend using `brim` instead of `raft` for easier removal.\
