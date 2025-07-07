@@ -47,19 +47,9 @@
    </p>
 
 7. Model rotation
-   
-   <center>
-      <table>
-        <tr>
-          <td style="vertical-align: top;">
-            <img src="../images/rotation.png" width="300">
-          </td>
-          <td style="vertical-align: top;">
-            <img src="../images/rotation_choices.png" width="300">
-          </td>
-        </tr>
-      </table>
-   </center>
+   <p align='center'>
+      <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
+   </p>
 
 8. Check printing time and adjust location of model
    <p align='center'>
