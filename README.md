@@ -18,3 +18,6 @@
 - [NHH website](https://www.nhh.com.hk/en/3dprinting/Product.html)
 - [NHH Facebook page](https://www.facebook.com/profile.php?id=100057169131130&locale=zh_HK)
 - Contact `NHH` via Facebook Messenger to get the updated product prices/discounts.
+
+## Maintainer
+If you got any problem, contact me directly through [Athenachc](https://github.com/Athenachc) @ AIRO-LAB @ RCUAS, HKPolyU.
