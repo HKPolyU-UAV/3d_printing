@@ -52,7 +52,7 @@
       <table>
         <tr>
           <td style="vertical-align: top;">
-            <img src="./images/rotation.png" width="300">
+            <img src="../images/rotation.png" width="300">
           </td>
           <td style="vertical-align: top;">
             <img src="../images/rotation_choices.png" width="300">
