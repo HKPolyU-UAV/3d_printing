@@ -20,4 +20,4 @@
 - Contact `NHH` via Facebook Messenger to get the updated product prices/discounts.
 
 ## Maintainer
-If you got any problem, contact me directly through [Athenachc](https://github.com/Athenachc) @ AIRO-LAB @ RCUAS, HKPolyU.
+If you have any issues, feel free to contact me directly via [Athenachc](https://github.com/Athenachc) @ AIRO-LAB @ RCUAS, HKPolyU.
