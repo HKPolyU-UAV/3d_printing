@@ -4,7 +4,7 @@ Build volume: 304x304x415mm^3\
 Filament types: PLA, PETG, ABS, PC, PA, TPU, TPE
 
 ## G-code Generation
-1. Unzip [3D printer_3DP CX300.zip](https://github.com/HKPolyU-UAV/3d_printing/blob/main/3D%20printer_3DP%20CX300.zip) to get the slicing GUI.\
+1. Download and unzip [3D printer_3DP CX300.zip](https://github.com/HKPolyU-UAV/3d_printing/blob/main/3D%20printer_3DP%20CX300.zip) to get the slicing GUI.\
    `3D printer_3DP CX300.zip` > `software` > `Kisslicer1.5-3.10` > `KISSlicer.exe` or `KISSlicer64.exe`
 
 2. Check parameter settings on KISSlicer\
