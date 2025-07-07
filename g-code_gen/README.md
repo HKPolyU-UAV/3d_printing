@@ -15,5 +15,5 @@
    2g. In `Support`, set `Raft Type` to `Off`. Recommend using `brim` instead of `raft` for easier removal.\
    2h. In `Support`, set `Support Z-Roof [mm]` to 400. If your model height is less than the `Support Z-Roof [mm]`, KISSlicer will only generate support up to the value of `Support Z-Roof [mm]` in the z-axis.
    <p align='center'>
-      <img src="../images/support.png" width=500>
+      <img src="../images/support_setting.png" width=500>
    </p>
