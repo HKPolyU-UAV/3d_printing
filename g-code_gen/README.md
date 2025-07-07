@@ -48,10 +48,10 @@
 
 7. Model rotation
    <p align='center'>
-      <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
+      <img src="../images/rotation.png" width=300 style="vertical-align: top;"> <img src="../images/rotation_choices.png" width=300 style="vertical-align: top;">
    </p>
 
 8. Check printing time and adjust location of model
    <p align='center'>
-      <img src="../images/printing_time_location.png" width=600>
+      <img src="../images/printing_time_location.png" width=300>
    </p>
