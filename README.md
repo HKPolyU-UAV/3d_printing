@@ -1,6 +1,6 @@
 # 3D Printing Tutorial
 - Printer model: [Phineas 3DP CX-300](https://www.phineas3dp.com/%E7%94%A2%E5%93%81%E7%9B%AE%E9%8C%84)
-- Build volume: 304x304x415mm^3
+- Build volume: 304 x 304 x 415 mm<sup>3</sup>
 - Filament types: PLA, PETG, ABS, PC, PA, TPU, TPE
 
 ## G-code Generation
