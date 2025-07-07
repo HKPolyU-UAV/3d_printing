@@ -10,7 +10,8 @@
 5. Wait for the desired temperature.
 
 <p align='center'>
-   <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation.gif" /> <br/>
+  <!--  <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation.gif" /> <br/> -->
+   <img src="videos/Change filament_preparation.gif" /> <br/>
    <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation_resize.mp4">Video</a>
 </p>
 
