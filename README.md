@@ -1,8 +1,7 @@
 # 3D Printing Tutorial
-Printer model: Phineas 3DP CX-300
-Build volume: 304x304x415mm^3
-Filament types: PLA, TPU
-
+Printer model: [Phineas 3DP CX-300](https://www.phineas3dp.com/%E7%94%A2%E5%93%81%E7%9B%AE%E9%8C%84)\
+Build volume: 304x304x415mm^3\
+Filament types: PLA, PETG, ABS, PC, PA, TPU, TPE
 
 ## G-code Generation
 1. Unzip [3D printer_3DP CX300.zip](https://github.com/HKPolyU-UAV/3d_printing/blob/main/3D%20printer_3DP%20CX300.zip) to get the slicing GUI.\
@@ -22,7 +21,7 @@ Filament types: PLA, TPU
 ---
 ## Change filament
 ---
-## Buy Filament 
+## Buy Filament (PLA & TPU)
 [NHH website](https://www.nhh.com.hk/en/3dprinting/Product.html)
 [NHH Facebook page](https://www.facebook.com/profile.php?id=100057169131130&locale=zh_HK)
 Contact `NHH` via Facebook Messenger to get the updated product prices/discounts.
