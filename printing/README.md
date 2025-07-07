@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3Dprinting_resize.gif" alt="Demo" />
+  <img src="videos/3D printing.gif" alt="Demo" />
 </p>
