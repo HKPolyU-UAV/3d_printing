@@ -18,7 +18,7 @@ Filament types: PLA, PETG, ABS, PC, PA, TPU, TPE
    2h. In `Support`, set `Support Z-Roof [mm]` to 400. If your model height is less than the `Support Z-Roof [mm]`, KISSlicer will only generate support up to the value of `Support Z-Roof [mm]` in the z-axis.
 ---
 ## 3D Printing (Using Web Control)
-[Official guide from Phineas 3DP](https://docs.google.com/presentation/d/1etEfz05OivFhBJf1LgV1eZHr3E9O6gLQuy2fu7P-YVM/edit?slide=id.g13eb052e2cc_1_0#slide=id.g13eb052e2cc_1_0_) (in Traditional Chinese only)
+[Official guide from Phineas 3DP](https://docs.google.com/presentation/d/1etEfz05OivFhBJf1LgV1eZHr3E9O6gLQuy2fu7P-YVM/edit?slide=id.g13eb052e2cc_1_0#slide=id.g13eb052e2cc_1_0_) (in Traditional Chinese only)/
 [Guide](https://github.com/HKPolyU-UAV/3d_printing/tree/main/printing)
 
 ---
