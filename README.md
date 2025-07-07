@@ -22,6 +22,6 @@ Filament types: PLA, PETG, ABS, PC, PA, TPU, TPE
 ## Change filament
 ---
 ## Buy Filament (PLA & TPU)
-[NHH website](https://www.nhh.com.hk/en/3dprinting/Product.html)
-[NHH Facebook page](https://www.facebook.com/profile.php?id=100057169131130&locale=zh_HK)
+[NHH website](https://www.nhh.com.hk/en/3dprinting/Product.html)\
+[NHH Facebook page](https://www.facebook.com/profile.php?id=100057169131130&locale=zh_HK)\
 Contact `NHH` via Facebook Messenger to get the updated product prices/discounts.
