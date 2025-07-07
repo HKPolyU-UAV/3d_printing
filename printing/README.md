@@ -11,5 +11,7 @@
 
 <p align="center">
   <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing.gif" alt="Demo" />
+  [Video](https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing_resize.mp4)
 </p>
-[Video](https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/3D%20printing_resize.mp4)
+
+
