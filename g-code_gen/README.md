@@ -10,6 +10,7 @@
    <p align='center'>
       <img src="../images/style_setting.png" width=500>
    </p>
+   
    2e. In `Support`, always set `Support Name` to `sample support` if you want to get the auto support generation.\
    2f. In `Support`, choose `Support: Coarse`.\
    2g. In `Support`, set `Raft Type` to `Off`. Recommend using `brim` instead of `raft` for easier removal.\
