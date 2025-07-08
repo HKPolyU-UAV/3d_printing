@@ -63,7 +63,10 @@
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-10. Check printing time and adjust location of model
+10. Check estimated printing time and adjust location of model
+    - Check estimated printing time after slicing. Remember to slice again if you make any changes to the setting after slicing.
+    - Drag the bars or press Center (in the bottom-right corner) to position the model on the heat bed.
+    
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
