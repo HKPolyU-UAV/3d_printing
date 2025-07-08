@@ -31,28 +31,29 @@
    </p>
    
 4. Set parameters in `Ext Map`:
+   - Select the correct filament type under `Extruder 1 Material`. Usually, we use `PLA` or `TPU`.
 
    <p align='center'>
       <img src="../images/ext_map_setting.png" width=600>
    </p>
    
-5. Set parameters in `Printer`:
+6. Set parameters in `Printer`:
    
    <p align='center'>
       <img src="../images/printer_setting.png" width=600>
    </p>
 
-6. Load STL file(s) into KISSlicer and do slicing
+7. Load STL file(s) into KISSlicer and do slicing
    <p align='center'>
       <img src="../images/model_paths.png" width=600>
    </p>
 
-7. Model rotation
+8. Model rotation
    <p align='center'>
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-8. Check printing time and adjust location of model
+9. Check printing time and adjust location of model
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
