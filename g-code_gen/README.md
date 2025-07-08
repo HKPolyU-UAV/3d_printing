@@ -51,7 +51,7 @@
    - Drag the bar on the right to check the layers of the sliced model in `Models + Paths`/`Paths` mode.
    
    <p align='center'>
-      <img src="../images/model_paths.png" width=600>
+      <img src="../images/model_paths_v2.png" width=600>
    </p>
 
 8. Model rotation
