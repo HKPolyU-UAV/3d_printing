@@ -54,7 +54,7 @@
       <img src="../images/model_paths_v2.png" width=600>
    </p>
 
-8. Model rotation
+7. Model rotation
    - Right-click in the top right corner and select `Transform Mesh`.
    - Press `X => Up`, `Y => Up` or `Flip upside-down` to rotate the model along the x, y or z-axis.
    - Be careful to use `Mirror X/Y/Z axis`. Ensure that your model can be mirrored before using this function.
@@ -63,10 +63,12 @@
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-10. Check estimated printing time and adjust location of model
+8. Check estimated printing time and adjust location of model
     - Check estimated printing time after slicing. Remember to slice again if you make any changes to the setting after slicing.
     - Drag the bars or press Center (in the bottom-right corner) to position the model on the heat bed.
     
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
+
+9. Save the slicing result as a G-code file.
