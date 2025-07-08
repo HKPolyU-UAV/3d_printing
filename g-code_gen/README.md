@@ -47,19 +47,23 @@
 6. Load STL file(s) into KISSlicer and do slicing
    - Press `Open` and select your desired STL file.
    - Press `Slice` to do slicing.
-   - Select `Models`/`Models + Paths` or `Paths` (in the top left corner) to view the slicing result.
-   - Drag the bar on the right to check the layers of the sliced model in `Models + Paths`/`Paths` mode.
+   - Select `Models`, `Models + Paths` or `Paths` (in the top left corner) to view the slicing result.
+   - Drag the bar on the right to check the layers of the sliced model in `Models + Paths` or `Paths` mode.
    
    <p align='center'>
       <img src="../images/model_paths_v2.png" width=600>
    </p>
 
 8. Model rotation
+   - Right-click in the top right corner and select `Transform Mesh`.
+   - Press `X => Up`, `Y => Up` or `Flip upside-down` to rotate the model along the x, y or z-axis.
+   - Be careful to use `Mirror X/Y/Z axis`. Ensure that your model can be mirrored before using this function.
+   
    <p align='center'>
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-9. Check printing time and adjust location of model
+10. Check printing time and adjust location of model
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
