@@ -37,24 +37,29 @@
       <img src="../images/ext_map_setting.png" width=600>
    </p>
    
-6. Set parameters in `Printer`:
+5. Set parameters in `Printer`:
    - Set the value of `Printer Name` to be the same as `Style Name`.
    
    <p align='center'>
       <img src="../images/printer_setting.png" width=600>
    </p>
 
-8. Load STL file(s) into KISSlicer and do slicing
+6. Load STL file(s) into KISSlicer and do slicing
+   - Press `Open` and select your desired STL file.
+   - Press `Slice` to do slicing.
+   - Select `Models`/`Models + Paths` or `Paths` (in the top left corner) to view the slicing result.
+   - Drag the bar on the right to check the layers of the sliced model in `Models + Paths`/`Paths` mode.
+   
    <p align='center'>
       <img src="../images/model_paths.png" width=600>
    </p>
 
-9. Model rotation
+8. Model rotation
    <p align='center'>
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-10. Check printing time and adjust location of model
+9. Check printing time and adjust location of model
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
