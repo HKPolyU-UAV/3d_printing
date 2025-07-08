@@ -38,22 +38,23 @@
    </p>
    
 6. Set parameters in `Printer`:
+   - Set the value of `Printer Name` to be the same as `Style Name`.
    
    <p align='center'>
       <img src="../images/printer_setting.png" width=600>
    </p>
 
-7. Load STL file(s) into KISSlicer and do slicing
+8. Load STL file(s) into KISSlicer and do slicing
    <p align='center'>
       <img src="../images/model_paths.png" width=600>
    </p>
 
-8. Model rotation
+9. Model rotation
    <p align='center'>
       <img src="../images/rotation.png" width=300> <img src="../images/rotation_choices.png" width=300>
    </p>
 
-9. Check printing time and adjust location of model
+10. Check printing time and adjust location of model
    <p align='center'>
       <img src="../images/printing_time_location.png" width=300>
    </p>
