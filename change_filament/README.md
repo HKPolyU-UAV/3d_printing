@@ -12,6 +12,7 @@
 <p align='center'>
    <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation.gif" /> <br/>
    <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_preparation_resize.mp4">Video</a>
+   <a href="https://youtu.be/RC8qPfgDxXY">YouTube</a>
 </p>
 
 ## Unload "old" filament and load "new" filament
@@ -28,6 +29,7 @@
 <p align='center'>
    <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_remove_load_filament.gif"/> <br/>
    <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_unload_load_filament_resize.mp4">Video</a>
+   <a href="https://youtu.be/S8ApbskcYEc">YouTube</a>
 </p>
 
 9. Ensure that the tip of the filament is inserted properly into the extruder.
@@ -36,4 +38,5 @@
 <p align='center'>
    <img src="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_final_check.gif"/> <br/>
    <a href="https://github.com/HKPolyU-UAV/3d_printing/blob/main/videos/Change%20filament_final_check_resize.mp4">Video</a>
+   <a href="https://youtu.be/1-T3e5Rptnw">YouTube</a>
 </p>
